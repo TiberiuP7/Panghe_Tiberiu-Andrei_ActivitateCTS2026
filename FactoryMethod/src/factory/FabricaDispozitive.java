@@ -1,9 +1,9 @@
-package ro.ase.cts.factory;
+package factory;
 
-import ro.ase.cts.dispozitive.Dispozitiv;
-import ro.ase.cts.dispozitive.Laptop;
-import ro.ase.cts.dispozitive.Smartphone;
-import ro.ase.cts.dispozitive.Smartwatch;
+import dispozitive.Dispozitiv;
+import dispozitive.Laptop;
+import dispozitive.Smartphone;
+import dispozitive.Smartwatch;
 
 public class FabricaDispozitive {
 

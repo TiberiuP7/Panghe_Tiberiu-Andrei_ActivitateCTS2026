@@ -1,4 +1,4 @@
-package ro.ase.cts.dispozitive;
+package dispozitive;
 
 public class Smartwatch extends Dispozitiv {
     public Smartwatch(int nivelBaterie) {

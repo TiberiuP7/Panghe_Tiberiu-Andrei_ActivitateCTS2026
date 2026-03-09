@@ -1,4 +1,4 @@
-package ro.ase.cts.dispozitive;
+package dispozitive;
 
 public class Laptop extends Dispozitiv {
     public Laptop(int nivelBaterie) {
