@@ -1,6 +1,6 @@
-package cts.ase.id.singleton.program;
+package program;
 
-import cts.ase.id.singleton.aplicatii.AplicatieMobila;
+import aplicatii.AplicatieMobila;
 
 public class Program {
     public static void main(String[] args) {

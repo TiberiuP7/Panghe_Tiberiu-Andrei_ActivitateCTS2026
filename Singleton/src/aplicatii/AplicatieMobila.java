@@ -1,4 +1,4 @@
-package cts.ase.id.singleton.aplicatii;
+package aplicatii;
 
 public class AplicatieMobila {
     private String nume;
