@@ -1,4 +1,4 @@
-package ro.ase.cts.program;
+package program;
 
 import ro.ase.cts.dispozitive.Dispozitiv;
 import ro.ase.cts.factory.FabricaDispozitive;

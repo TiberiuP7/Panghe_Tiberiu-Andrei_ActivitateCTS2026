@@ -1,4 +1,4 @@
-package ro.ase.cts.dispozitive;
+package dispozitive;
 
 public abstract class Dispozitiv {
     protected int nivelBaterie;

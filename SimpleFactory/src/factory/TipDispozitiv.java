@@ -1,4 +1,4 @@
-package ro.ase.cts.factory;
+package factory;
 
 public enum TipDispozitiv {
     Laptop,
