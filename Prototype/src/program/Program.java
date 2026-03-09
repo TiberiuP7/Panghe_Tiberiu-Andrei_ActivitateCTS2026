@@ -1,7 +1,7 @@
-package cts.ase.id.prototype.program;
+package program;
 
-import cts.ase.id.prototype.Prototype;
-import cts.ase.id.prototype.Rezervare;
+import prototype.Prototype;
+import prototype.Rezervare;
 
 public class Program {
     public static void main(String[] args) {

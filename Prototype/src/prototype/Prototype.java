@@ -1,4 +1,4 @@
-package cts.ase.id.prototype;
+package prototype;
 
 public interface Prototype {
     Prototype copiaza();

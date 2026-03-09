@@ -1,4 +1,4 @@
-package cts.ase.id.prototype;
+package prototype;
 
 public class Rezervare implements Prototype{
     private String nume;
