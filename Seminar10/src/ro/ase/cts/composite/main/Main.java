@@ -15,6 +15,7 @@ public class Main {
         ((Departament) depSpital).adaugaStructura(sectieManagement);
         ((Departament) depAdministrativ).adaugaStructura(sectieSecretariat);
         System.out.println("Inainte de modificare:\n");
+
         depSpital.afiseazaDetaliiStructura("");
 
         ((Departament) depSpital).stergeStructura(sectieManagement);
