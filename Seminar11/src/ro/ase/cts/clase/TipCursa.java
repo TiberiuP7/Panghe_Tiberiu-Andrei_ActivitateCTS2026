@@ -1,4 +1,6 @@
 package ro.ase.cts.clase;
 
-public enum TipLinie {
+public enum TipCursa {
+    CURSA_SPECIALA,
+    CURSA_NORMALA
 }
